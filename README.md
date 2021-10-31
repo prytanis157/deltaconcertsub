@@ -27,16 +27,16 @@ originator of said translation, please contact me.
 Hopefully, over time, more original work will be integrated to produce a better
 experience.
 
-What makes translating songs is how artistic they are in nature.  Translation
-is already, in of itself, an art, as literal translations often don't convey
-the underlying meaning, including cultural subtexts.  This is made more
-difficult in that songs often aren't meant to be taken literally but have a
-different or deeper meaning than the sum of the spoken works.  This means that
-interpretations of the same song can vary widely between translators.  Here,
-all I can say is I did the best I could with the sources availabe.  My Japanese
-is very poor so many of my decisions, when I made any, were based on the
-context of the stanza and what other translators had already done.  But we can
-do better.
+What makes translating songs difficult is how artistic they are in nature. 
+Translation is already, in of itself, an art, as literal translations often
+don't convey the underlying meaning, including cultural subtexts.  This is made
+more difficult in that songs often aren't meant to be taken literally but have
+a different or deeper meaning than the sum of the spoken works.  This means
+that interpretations of the same song can vary widely between translators.
+Here, all I can say is I did the best I could with the sources availabe.  My
+Japanese is very poor so many of my decisions, when I made any, were based on
+the context of the stanza and what other translators had already done.  But we
+can do better.
 
 Style guide:
 
