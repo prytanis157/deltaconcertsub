@@ -16,9 +16,9 @@ Video File: LIVE2017 WALKURE ga Tomaranai at Yokohama Arena.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 99
-Active Line: 126
-Video Position: 20956
+Scroll Position: 273
+Active Line: 275
+Video Position: 55781
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -310,7 +310,39 @@ Dialogue: 0,0:33:01.45,0:33:07.38,Purple - JUNNA,,0,0,0,,Since I want to be love
 Dialogue: 0,0:33:08.04,0:33:13.88,Purple - JUNNA,,0,0,0,,I will return alive
 Dialogue: 0,0:33:32.14,0:33:40.49,Song Header,,0,0,0,,MC2
 Dialogue: 0,0:35:16.67,0:35:25.01,Song Header,,0,0,0,,ジリティック <3 BEGINNER \N Jiritikku <3 BEGINNER \N Giritic <3 BEGINNER
-Dialogue: 0,0:35:16.67,0:35:25.01,Subtitle Credit,,0,0,0,,
+Dialogue: 0,0:35:16.67,0:35:25.01,Subtitle Credit,,0,0,0,,Series Subtitles / INCOMPLETE
+Dialogue: 0,0:35:17.22,0:35:19.28,Green - Nao Tōyama,,0,0,0,,{\i1}Everybody! Hello? {\i0}
+Dialogue: 0,0:35:21.92,0:35:25.31,Pink - Nozomi Nishida,,0,0,0,,{\i1}Yokohama Arena!  Hello!{\i0}
+Dialogue: 0,0:35:27.93,0:35:30.81,Green - Nao Tōyama,,0,0,0,,Feelin’ damp and sweaty sweaty
+Dialogue: 0,0:35:30.81,0:35:33.69,Green - Nao Tōyama,,0,0,0,,Insides are churning, kinda mushy mushy
+Dialogue: 0,0:35:33.69,0:35:36.78,Pink - Nozomi Nishida,,0,0,0,,Your stare is making me all prickly prickly
+Dialogue: 0,0:35:36.78,0:35:39.28,Everyone,,0,0,0,,C’mon don’t look at me
+Dialogue: 0,0:35:40.03,0:35:42.78,Green - Nao Tōyama,,0,0,0,,Glistening and sticky sticky…
+Dialogue: 0,0:35:42.78,0:35:45.36,Pink - Nozomi Nishida,,0,0,0,,I don’t need this nervous feeling!
+Dialogue: 0,0:35:45.36,0:35:48.00,Green - Nao Tōyama,,0,0,0,,It’s weird, but I feel all tingly tingly
+Dialogue: 0,0:35:48.00,0:35:52.12,Pink - Nozomi Nishida,,0,0,0,,My heart’s gone outta control!
+Dialogue: 0,0:35:52.86,0:35:58.76,Everyone,,0,0,0,,My chest is all a thumpity thump \N This really isn’t like me
+Dialogue: 0,0:35:58.76,0:36:04.64,Everyone,,0,0,0,,My heart’s a pendulum that just won’t stop
+Dialogue: 0,0:36:04.64,0:36:10.48,Everyone,,0,0,0,,Feelin’ all confused about me and you \N This is some sort of ma… malfunction
+Dialogue: 0,0:36:10.48,0:36:13.23,Everyone,,0,0,0,,So please just ignore it…
+Dialogue: 0,0:36:13.23,0:36:15.86,Green - Nao Tōyama,,0,0,0,,I’m impatiently impatiently
+Dialogue: 0,0:36:15.86,0:36:18.46,Pink - Nozomi Nishida,,0,0,0,,All tingly tingly
+Dialogue: 0,0:36:18.46,0:36:21.99,Everyone,,0,0,0,,That’s all!
+Dialogue: 0,0:37:39.66,0:37:40.58,Green - Nao Tōyama,,0,0,0,,SO LONG!
+Dialogue: 0,0:37:40.20,0:37:41.10,Pink - Nozomi Nishida,,0,0,0,,SO LONG!
+Dialogue: 0,0:37:40.72,0:37:41.68,Green - Nao Tōyama,,0,0,0,,DON’T TOUCH ME
+Dialogue: 0,0:37:41.68,0:37:42.70,Everyone,,0,0,0,,AND KEEP OFF!
+Dialogue: 0,0:37:42.70,0:37:43.78,Pink - Nozomi Nishida,,0,0,0,,OH OH
+Dialogue: 0,0:37:43.32,0:37:44.10,Green - Nao Tōyama,,0,0,0,,WAIT! WAIT!
+Dialogue: 0,0:37:44.10,0:37:45.04,Everyone,,0,0,0,,IT’S JOKE!
+Dialogue: 0,0:37:45.04,0:37:45.74,Pink - Nozomi Nishida,,0,0,0,,OH OH…
+Dialogue: 0,0:38:10.40,0:38:16.32,Everyone,,0,0,0,,My chest is all a thumpity thump \N This really isn’t like me
+Dialogue: 0,0:38:16.32,0:38:22.18,Everyone,,0,0,0,,My heart’s a pendulum that just won’t stop
+Dialogue: 0,0:38:22.18,0:38:28.08,Everyone,,0,0,0,,Feelin’ all confused about me and you \N This is some sort of ma… malfunction
+Dialogue: 0,0:38:28.08,0:38:30.80,Everyone,,0,0,0,,So please just ignore it…
+Dialogue: 0,0:38:30.80,0:38:33.60,Green - Nao Tōyama,,0,0,0,,I’m impatiently impatiently
+Dialogue: 0,0:38:33.60,0:38:35.94,Pink - Nozomi Nishida,,0,0,0,,All tingly tingly
+Dialogue: 0,0:38:35.94,0:38:40.25,Everyone,,0,0,0,,That’s all!
 Dialogue: 0,0:39:23.18,0:39:31.51,Song Header,,0,0,0,,おにゃの子☆girl \N Onya no Ko☆Girl
 Dialogue: 0,0:39:23.18,0:39:31.51,Subtitle Credit,,0,0,0,,Series Subtitles / Peppermint 2.0 on YouTube
 Dialogue: 0,0:39:29.10,0:39:32.76,Pink - Nozomi Nishida,,0,0,0,,Pounding heart, sideways glance, brand new and
