@@ -31,6 +31,7 @@ Style: Lt Blue - Yoko Hikasa,Arial,50,&H00FFFF00,&H000000FF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:16.66,Subtitle Credit,,0,0,0,,Compilation by Prytanis157 \N https://github.com/prytanis157/deltaconcertsub \N Subtitle sources as credited before songs \N License: Creative Commons Zero v1.0 Universal
 Dialogue: 0,0:01:54.60,0:02:02.93,Song Header,,0,0,0,,ようこそ! ワルキューレ・ワールドへ \N Youkoso! Walküre World e \N Welcome! To Walküre World
 Dialogue: 0,0:01:54.60,0:02:02.93,Subtitle Credit,,0,0,0,,Google Translate - It's bad.
 Dialogue: 0,0:02:30.45,0:02:32.34,Yellow - Kiyono Yasuno,,0,0,0,,Kaname Buccaneer, twenty-two!
@@ -1139,3 +1140,4 @@ Dialogue: 0,3:04:57.04,3:04:58.82,Everyone,,0,0,0,,huh huh
 Dialogue: 0,3:04:58.82,3:05:05.24,Red - Minori Suzuki,,0,0,0,,No matter how things end up - ... will be unstoppable!
 Dialogue: 0,3:05:39.12,3:05:42.92,Everyone,,0,0,0,,{\i1}Hardheaded Attack!{\i0}
 Dialogue: 0,3:05:43.02,3:05:51.37,Song Header,,0,0,0,,MC9
+Dialogue: 0,3:10:48.62,3:11:05.30,Subtitle Credit,,0,0,0,,Compilation by Prytanis157 \N https://github.com/prytanis157/deltaconcertsub \N Subtitle sources as credited before songs \N License: Creative Commons Zero v1.0 Universal

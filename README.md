@@ -14,8 +14,9 @@ cleaning up some of the subtitle timing or as extensive as translating MC
 sessions.  Anything helps.  
 
 DO NOT ASK FOR THE CONCERT VIDEO.  It can be purchased from:
-Flying Dog/JVC: https://www.jvcmusic.co.jp/flyingdog/-/Discographylist/A025373.html
-Amazon.jp
+
+1. Flying Dog/JVC: https://www.jvcmusic.co.jp/flyingdog/-/Discographylist/A025373.html
+2. Amazon.jp
 
 Translation Notes:
 
@@ -68,6 +69,22 @@ Is this subtitle file an accurate translation of the content?
 IT VARIES.  Some parts are better, some are pretty bad.  Hopefully we can get 
 rid of the bad.
 
+What's the deal with the license?
+
+This work is released under the CC0 1.0 Universal license.  In short, I waive
+all claims I may have had to this work.  That said, I'd *appreciate* it if all
+credits to myself and those who's works this is derived from are left in place.
+
+Isn't this collection stealing from copyright holders in the first place?
+
+The short answer is it's complicated.  Translations themselves are often 
+considered transformitive enough to escape copytight claims from the original 
+work.  HOWEVER, this isn't universal and he who has the most money often still
+prevails.  Works from, say, the Macross Wiki are released under a seperate
+creative commons license, making them available to all.  Works released
+publicly via other means, like YouTube, it's a lot more murkey.  I'm not a
+lawyer and everything I just said may be false.  But it is my understanding.
+
 Will you subtitle XYZ next?
 
 Short answer, no.
@@ -81,7 +98,6 @@ That all said, I'll likely move on to other Walkure concerts once this one is
 nearing completion.  They should be easier as, for technical reasons, the
 timing of each song matches up almost exactly between concerts.
   
-
 Why are you using GitHub?
 
 Version control, pure and simple.  It provides a single place to merge changes
